@@ -6,7 +6,7 @@
       "protocol": "vless",
       "settings": {
         "clients": [
-          { "id": "FORIDUL" }
+          { "id": "ADAMS" }
         ],
         "decryption": "none",
         "fallbacks": [
@@ -17,7 +17,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/t.me/internetfor_al/foridul"
+          "path": "/ernest-adams"
         }
       },
       "sniffing": {
@@ -33,7 +33,7 @@
         "response": {
           "status": 200,
           "headers": { "Content-Type": ["text/plain"] },
-          "body": "foridul"
+          "body": "adams"
         }
       }
     }
